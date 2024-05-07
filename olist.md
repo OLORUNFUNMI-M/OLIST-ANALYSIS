@@ -3,7 +3,7 @@ BUSINESS CASE
 --About the data
 
 The Olist sales dataset available on Kaggle is a collection of anonymized data about orders placed on the Olist platform between January 2017 and August 2018. It contains a wide range of information about each order, including the order date, product details, payment and shipping information, customer and seller IDs, and customer reviews. The dataset also includes information about the sellers who list their products on Olist, as well as data on customer behavior and demographics. 
-Olist is a Brazilian e-commerce plattorm that connects small and medium-sized businesses to customers across Brazil. The platform operates as a marketolace where merchants can list their products and services and customers can browse and purchase them online.
+Olist is a Brazilian e-commerce plattorm that connects small and medium-sized businesses to customers across Brazil. The platform operates as a marketplace where merchants can list their products and services and customers can browse and purchase them online.
 
 --Objective: As a data analyst, I aim to understand olist e-commerce landscape in Brazil and help olist identify opportunities for growth and business optimization. 
 
