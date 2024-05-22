@@ -8,7 +8,8 @@ Olist is a Brazilian e-commerce platform that connects small and medium-sized bu
 --Objective: As a data analyst, I aim to understand olist e-commerce landscape in Brazil and help olist identify opportunities for growth and business optimization. 
 
 --Business Questions
-To help Olist gain better insights into their e-commerce platform performance and utilize available opportunities to boost growth, you are to provide answers to the business questions below:
+To help Olist gain better insights into their e-commerce platform performance and utilize available opportunities to boost growth, I provided answers to the business questions below:
+
 1. how many customers do Olist have on the platform
 2. what state are the customers from
 3. total number of orders
