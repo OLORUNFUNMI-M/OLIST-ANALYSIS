@@ -27,7 +27,7 @@ To help Olist gain better insights into their e-commerce platform performance an
 ---Analysis process
 
 Checked out for null, duplicate values
-wrote SQL queries to understand the data and identify patterns that helped in answering the businss questions
+wrote SQL queries to understand the data and identify patterns to answering the business questions
 
 ---RECOMMENDATIONS
 1. Only 67 products are listed on the platform - Olist should onboard more reliable sellers of different product so customers can have a range to choose from
