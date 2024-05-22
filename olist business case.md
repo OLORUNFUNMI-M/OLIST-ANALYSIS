@@ -31,7 +31,9 @@ wrote SQL queries to understand the data and identify patterns that helped in an
 
 ---RECOMMENDATIONS
 1. Only 67 products are listed on the platform - Olist should onboard more reliable sellers of different product so customers can have a range to choose from
-2.Customers are mainly in one state  - Olist should introduce the platform to other states in brazil to maximize sales revenue
+
+2. Customers are mainly in one state  - Olist should introduce the platform to other states in brazil to maximize sales revenue
+
 3. Customers giving bad reviews -
 Olist customer support team should reach out to the customers that gave bad review and offer them support
 Communicate with sellers to offer compensation and make sellers ensure that products are in good shape.
