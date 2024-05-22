@@ -10,7 +10,7 @@ Olist is a Brazilian e-commerce platform that connects small and medium-sized bu
 --Business Questions
 To help Olist gain better insights into their e-commerce platform performance and utilize available opportunities to boost growth, you are to provide answers to the business questions below:
 1. how many customers do Olist have on the platform
-2. what state are the custmers from
+2. what state are the customers from
 3. total number of orders
 4. payment type used by customers
 5. how many distinct product is available on the platform
